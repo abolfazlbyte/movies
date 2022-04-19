@@ -1,7 +1,9 @@
 # movies
-The Shawshank Redemption (1994)
-The Godfather (1972)
-The Godfather: Part II (1974)
+
+
+The Shawshank Redemption (1994)\n
+The Godfather (1972)\n
+The Godfather: Part II (1974)\n
 The Dark Knight (2008)
 12 Angry Men (1957)
 Schindler's List (1993)
