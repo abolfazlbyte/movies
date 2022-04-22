@@ -105,4 +105,13 @@ Friends 1994-2004<br />
 How I Met Your Mother 2005–2014<br />
 Back to the Future (1985)<br />
 Back to the Future II (1989)<br />
-Back to the Future III (1990)
+Back to the Future III (1990)<be />
+Harry Potter and the Sorcerer's Stone
+2001<br />
+Harry Potter and the Chamber of Secrets
+2002<br />
+Harry Potter and the Prisoner of Azkaban (2004)<br />
+Harry Potter and the Goblet of Fire (2005)<br />
+Harry Potter and the Order of the Phoenix (2007)<br />
+Harry Potter and the Half-Blood Prince (2009)<br />
+Harry Potter and the Deathly Hallows (2010/2011)
